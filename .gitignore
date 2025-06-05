@@ -2,6 +2,7 @@
 *.o
 *.a
 *.so
+website
 
 # Folders
 .vscode
@@ -24,7 +25,7 @@ _cgo_export.*
 _testmain.go
 
 *.exe
-*.exe~
+*~
 *.zip
 *.test
 *.prof
