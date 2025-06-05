@@ -21,6 +21,7 @@ cd website
 ```
 git clone https://github.com/beego/beedoc.git
 git clone https://github.com/beego/beeblog.git
+go get
 ```
 
 3. Compile:
