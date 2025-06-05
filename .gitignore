@@ -9,8 +9,6 @@ website
 _obj
 _test
 _cache
-beedoc
-beeblog
 
 # Architecture specific extensions/prefixes
 *.[568vq]

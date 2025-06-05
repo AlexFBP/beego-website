@@ -4,24 +4,18 @@ beego website
 
 ### Setup
 
-1. Get source code:
+1. Clone this repo with its submodules:
 
 ```
-go get github.com/beego/website
+git clone --recurse-submodules
 ```
 
-2. Get `beedoc` and `beeblog` to build contents:
+2. Compile:
 
 ```
-cd $GOPATH/src/github.com/beego/website
-git clone https://github.com/beego/beedoc
-git clone https://github.com/beego/beeblog
+go build
 ```
 
-3. Compile:
-
-```
-go build main.go
-```
+3. Run:
 
 run `website` and visit `http://localhost:8082`

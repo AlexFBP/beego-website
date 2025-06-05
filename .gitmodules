@@ -1,0 +1,6 @@
+[submodule "beedoc"]
+	path = beedoc
+	url = https://github.com/beego/beedoc.git
+[submodule "beeblog"]
+	path = beeblog
+	url = https://github.com/beego/beeblog.git
